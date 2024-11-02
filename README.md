@@ -15,16 +15,16 @@ I’m a **Blockchain Engineer** and **Technical Lead** specializing in **decentr
 - **Infrastructure**: Git, AWS, Cloudflare, Netlify, Docker, Terraform/Packer, IPFS, CI/CD, Hasura, Grafana/Prometheus
 
 ### 🛠️ Key Contributions
-- **xx Network**: Substrate framework. Launched L1 network and token. Developed Wallet, Staking Tool, Explorer and [other dApps](https://hub.xx.network) as Lead Engineer
-- **Lamina1**: Avalanche L1. Architecting Web3 innovations for a community-driven ecosystem. Tech lead of the [Lamina1 Hub](https://lamina1.com)
-- **BitFashioned SEZC**: Advisory for Web3 projects on MVPs, scaling, and strategy
+- **xx Network**: Substrate framework. Launched L1 network and token. Developed Wallet, Staking Tool, Explorer and [other dApps](https://hub.xx.network).
+- **Lamina1**: Avalanche L1. Architecting Web3 innovations for a community-driven ecosystem. Tech lead of the [Lamina1 Hub](https://lamina1.com).
+- **BitFashioned SEZC**: Advisory for Web3 projects on MVPs, scaling, and strategy.
 
 ### 🎓 Background
-- **BSc in Electrical and Computer Engineering** (University of Porto): Focused on networks and telecommunications
-- **MSc in Computer Science** (University of Porto): Thesis in **Deep Reinforcement Learning** applied to wireless networks
+- **BSc in Electrical and Computer Engineering** (University of Porto): Focused on networks and telecommunications.
+- **MSc in Computer Science** (University of Porto): Thesis in **Deep Reinforcement Learning** applied to wireless networks.
 - **CCNA Certified** (Cisco Networking Academy): Gained expertise in networking fundamentals and network security.
 - **Google Nanodegree in Mobile Web Development** (Online): Skills in PWAs.
-- **Research**: Co-authored ["xxBFT: Linear consensus with random sampling"](https://eprint.iacr.org/2023/1262.pdf) with [David Chaum](https://en.wikipedia.org/wiki/David_Chaum)
+- **Research**: Co-authored ["xxBFT: Linear consensus with random sampling"](https://eprint.iacr.org/2023/1262.pdf) with [David Chaum](https://en.wikipedia.org/wiki/David_Chaum).
 
 ### 🌐 Let’s Connect
 Reach out if you're building in Web3 or need expertise in blockchain engineering, advisory, or platform integration. Happy to discuss collaboration!
