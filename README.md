@@ -1,11 +1,17 @@
-# 👋 Hi, I'm Baltasar Aroso
+# 👋 Hey, Baltasar Aroso here
+**Technical Lead | Blockchain & Web3 R&D | AI Strategist**
+> 🌐 **[baltasararoso.me](https://baltasararoso.me)**
 
-I’m a **Blockchain Engineer** and **Technical Lead** specializing in **decentralized privacy** and **L1 ecosystems**. I work alongside **David Chaum** at **xx.network**, focusing on privacy-driven blockchain solutions, and with **Neal Stephenson** at **Lamina1**, building a Web3 hub for creators. Based in the **Cayman Islands**, I also co-founded **BitFashioned SEZC** to help projects navigate Web3, from launching platforms and tokens to advising on strategic growth.
+I’m a **Blockchain Engineer** and **Technical Lead** specializing in **decentralized privacy**, **L1 ecosystems** and **Agentic AI systems**. I work alongside **David Chaum** at **xx.network**, focusing on privacy-driven blockchain solutions, and with **Neal Stephenson** at **Lamina1**, building a Web3 hub for creators. Based in the **Cayman Islands**, I also co-founded **BitFashioned SEZC** to help projects navigate Web3, from launching platforms and tokens to advising on strategic growth.
 
-### 🔧 Current Projects
+### 🔧 Some Projects
 - **[Lamina1](https://about.lamina1.com)**: Leading tech initiatives to build a creator-centric Web3 hub with Neal Stephenson.
 - **[xx Network](https://xx.network)**: Working with David Chaum on decentralized privacy tools and advancing consensus protocols.
 - **[PhoenixxIO](https://phoenixx.io)**: Building a secure communication hub for Web3.
+- **[Phoenixx.IO](https://phoenixx.io)**: Private Web3 hub for communications
+- **[qVault.network](https://qvault.network)**: Quantum-proof smart wallets layer
+- **[BuzzLetter.AI](https://buzzletter.ai)**: Personalized AI-powered newsletters
+- **[OREX.one](https://orex.one)**: DeFi Yield on Tokenized Precious Metals
 
 ### 🌟 Skills & Expertise
 - **Blockchain Frameworks**: Substrate/Polkadot, CosmosSDK, Avalanche, Ethereum/EVM, Solana
