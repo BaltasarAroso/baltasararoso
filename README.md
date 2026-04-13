@@ -7,11 +7,10 @@ I’m a **Blockchain Engineer** and **Technical Lead** specializing in **decentr
 ### 🔧 Some Projects
 - **[Lamina1](https://about.lamina1.com)**: Leading tech initiatives to build a creator-centric Web3 hub with Neal Stephenson.
 - **[xx Network](https://xx.network)**: Working with David Chaum on decentralized privacy tools and advancing consensus protocols.
-- **[PhoenixxIO](https://phoenixx.io)**: Building a secure communication hub for Web3.
 - **[Phoenixx.IO](https://phoenixx.io)**: Private Web3 hub for communications
 - **[qVault.network](https://qvault.network)**: Quantum-proof smart wallets layer
 - **[BuzzLetter.AI](https://buzzletter.ai)**: Personalized AI-powered newsletters
-- **[OREX.one](https://orex.one)**: DeFi Yield on Tokenized Precious Metals
+- **[OREX]()**: DeFi Yield on Tokenized Precious Metals
 
 ### 🌟 Skills & Expertise
 - **Blockchain Frameworks**: Substrate/Polkadot, CosmosSDK, Avalanche, Ethereum/EVM, Solana
